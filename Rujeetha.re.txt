@@ -1,0 +1,10 @@
+Personal Details 
+
+Name          : R.Rujeetha
+Date of Birth : 08/06/2006
+Gender        : Female
+
+Education
+
+Department    : BCA
+University    : Bharathidasan University
